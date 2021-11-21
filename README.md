@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-[Pull Request]()
+[Pull Request](https://github.com/EmadIdris/cloud-server/pull/1)
 
 #### `.env` requirements
 
